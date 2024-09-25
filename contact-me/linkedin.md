@@ -4,6 +4,10 @@ icon: linkedin
 
 # LinkedIn
 
+## Software Developer | B.Sc (Hons) In Information Technology Student at University of Sri Jayewardenepura
+
+
+
 Hey there, I'm Tharindu Darshana Dehipitiya. I am also proficient in a variety of programming languages, including Python, JavaScript, and Java.I Graduated with a Bachelor of Science in Information Technology (Hons) Special Degree with Second Class (Lower Division) from the University of Sri Jayewardenepura.
 
 I'm an Educator in IT with a passion for simplifying complex concepts for students, helping them build practical skills in areas like Programming, AI, Machine Learning and Software development. My teaching approach empowers the next generation of tech professionals, bridging the gap between theory and real-world applications.
