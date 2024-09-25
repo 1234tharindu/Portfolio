@@ -12,4 +12,4 @@
   * [🦣 An IoT-Based Frequency Interference System To Reduce Elephant-Human Conflict in Sri Lanka](projects/an-iot-based-frequency-interference-system-to-reduce-elephant-human-conflict-in-sri-lanka.md)
   * [IR remote control car with Arduino](projects/ir-remote-control-car-with-arduino.md)
   * [Mobile App for Supermarket](projects/mobile-app-for-supermarket.md)
-  * [Page 1](projects/page-1.md)
+  * [Web Application for Supermarket](projects/web-application-for-supermarket.md)
