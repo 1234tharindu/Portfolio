@@ -1,3 +1,7 @@
+---
+icon: address-card
+---
+
 # ABOUT
 
 ## Hi I'm Tharindu Darshana Dehipitiya
