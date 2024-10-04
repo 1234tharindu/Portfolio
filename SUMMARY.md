@@ -14,3 +14,4 @@
   * [Mobile App for Supermarket](projects/mobile-app-for-supermarket.md)
   * [Web Application for Supermarket](projects/web-application-for-supermarket.md)
   * [Car Management System](projects/car-management-system.md)
+  * [Smart Dustbin using Arduino](projects/smart-dustbin-using-arduino.md)
