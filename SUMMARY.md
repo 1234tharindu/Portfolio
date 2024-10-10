@@ -10,6 +10,7 @@
 * [LICENSES & CERTIFICATIONS](licenses-and-certifications/README.md)
   * [Cisco LABS](licenses-and-certifications/cisco-labs.md)
   * [Great Learning](licenses-and-certifications/great-learning.md)
+  * [LinkedIn](licenses-and-certifications/linkedin.md)
 * [PROJECTS](projects/README.md)
   * [🦣 An IoT-Based Frequency Interference System To Reduce Elephant-Human Conflict in Sri Lanka](projects/an-iot-based-frequency-interference-system-to-reduce-elephant-human-conflict-in-sri-lanka.md)
   * [IR remote control car with Arduino](projects/ir-remote-control-car-with-arduino.md)
