@@ -8,7 +8,7 @@
 * [EXPERIENCE](experience.md)
 * [EDUCATION](education.md)
 * [LICENSES & CERTIFICATIONS](licenses-and-certifications/README.md)
-  * [Cisco LABS](licenses-and-certifications/cisco-labs.md)
+  * [EC-Council](licenses-and-certifications/ec-council.md)
   * [Great Learning](licenses-and-certifications/great-learning.md)
   * [LinkedIn](licenses-and-certifications/linkedin.md)
 * [PROJECTS](projects/README.md)
