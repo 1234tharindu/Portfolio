@@ -1,3 +1,7 @@
+---
+icon: id-badge
+---
+
 # Cisco LABS
 
 ## Cisco LABS Crash Course
