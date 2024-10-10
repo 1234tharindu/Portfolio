@@ -1,5 +1,5 @@
 ---
-icon: id-badge
+icon: certificate
 ---
 
 # LinkedIn

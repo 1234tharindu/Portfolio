@@ -1,8 +1,8 @@
 ---
-icon: id-badge
+icon: certificate
 ---
 
-# Cisco LABS
+# EC-Council
 
 ## Cisco LABS Crash Course
 
